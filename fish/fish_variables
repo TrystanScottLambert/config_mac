@@ -1,4 +1,5 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export JULIA_NUM_THREADS:auto
 SETUVAR __fish_webconfig_theme_notification:set\x2dtheme\x2dv1\x2d\x231
-SETUVAR fish_user_paths:/Library/TeX/texbin\x1e/Users/00115372/\x2ecargo/bin
+SETUVAR fish_user_paths:/Users/00115372/\x2ejuliaup/bin\x1e/Library/TeX/texbin\x1e/Users/00115372/\x2ecargo/bin
